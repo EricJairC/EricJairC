@@ -7,7 +7,7 @@
 <p align="center">
   💻 Desarrollador Full Stack | React – Node.js – PostgreSQL – TypeScript <br/>
   📍 CDMX, México | 📧 ericjaircruzsanchez@gmail.com | 📱 +52 55 7957 6103 <br/>
-  🌐 <a href="https://ericjairc.github.io/Portafolio/" target="_blank">Portafolio</a>
+  🌐 <a href="https://portfoliov3-lime.vercel.app/" target="_blank">Portafolio</a>
 </p>
 
 ---
